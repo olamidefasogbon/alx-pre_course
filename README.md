@@ -1,1 +1,1 @@
-My first readme
+Woah! GIT is awesome!!
